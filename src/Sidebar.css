@@ -3,6 +3,7 @@
 	border-radius: 10px;
 	text-align: center;
 	height: fit-content;
+	flex:0.2;
 }
 
 .sidebar__avatar {
