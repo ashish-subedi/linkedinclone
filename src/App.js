@@ -12,8 +12,6 @@ function App() {
       <Sidebar/>
       <Feed />
       <Widget />
-      {/* Feed */}
-      {/* Widget */}
     
     </div>
 
